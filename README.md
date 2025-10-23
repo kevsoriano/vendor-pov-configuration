@@ -3,8 +3,11 @@
 ## Hierarchy
 ```
 application.properties
+&#8595;
 a.properties
+&#8595;
 a-profile.properties
+&#8595;
 application.properties
 ```
 
